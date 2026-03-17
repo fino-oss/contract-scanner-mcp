@@ -1,5 +1,8 @@
 # Contract Security Scanner — MCP Server
 
+[![contract-scanner-mcp MCP server](https://glama.ai/mcp/servers/fino-oss/contract-scanner-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fino-oss/contract-scanner-mcp)
+
+
 Scan any Base L2 smart contract for security risks directly from your AI assistant.
 
 **3 tools exposed:**
